@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Rightplace_Admintheme>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Rightplace_Admintheme>
+    </modules>
+</config>

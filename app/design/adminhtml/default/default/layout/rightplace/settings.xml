@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<layout>
+    <default>
+        <reference name="head">
+            <action method="addCss">
+                <stylesheet>css/custom-admin.css</stylesheet>
+                <params/>
+            </action>
+        </reference>
+    </default>
+</layout>
